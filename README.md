@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bahnschrift&duration=3993&pause=1000&color=1CCEBA&center=true&vCenter=true&width=435&lines=I+am+a+%22DATA+ANALYST%22;Here+to+turn+data++into+actionable+insights!;Continuously+learning+and+growing.)](https://git.io/typing-svg)
 # 💫 About Me:
 I'm a Data Analyst with a passion for transforming data into actionable insights. Skilled in SQL, Python, Pandas, NumPy, Excel, and Power BI, I enjoy exploring the “why” behind trends and uncovering the hidden stories that data tells.  
 
