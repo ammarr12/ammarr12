@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a teenage programmer striving to become a professional data scientist. <br>I started doing this of my own interest in the field, and plan on studying <br>Machine learning, AI based models and Power Bi.
+I'm a Data Analyst with a passion for transforming data into actionable insights. Skilled in SQL, Python, Pandas, NumPy, Excel, and Power BI, I enjoy exploring the “why” behind trends and uncovering the hidden stories that data tells.  
+
+I thrive on solving complex problems, understanding patterns, and helping businesses make data-driven decisions. Continuously learning and growing, I’m eager to expand my expertise in advanced analytics and contribute to projects where insights drive impact. 
 
 
 
