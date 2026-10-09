@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3994&pause=1000&color=D40000&center=true&vCenter=true&width=935&lines=Iam+an+Aspiring+Data+Scientist;Turning+Data+into+Actionable+Insights;Continuously+Learning+and+Growing!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3994&pause=1000&color=D40000&center=true&vCenter=true&width=935&lines=Iam+an+Aspiring+Data+Scientist;Using+ML+Models+To+Predict+Solutions;Continuously+Learning+and+Growing!+)](https://git.io/typing-svg)
 # 💫 About Me:
-I'm a Data Analyst with a passion for transforming data into actionable insights. Skilled in SQL, Python, Pandas, NumPy, Excel, and Power BI, I enjoy exploring the “why” behind trends and uncovering the hidden stories that data tells.  
+I'm an spiring Data Scientist with a passion for building models which actually forecast actionable insights. Skilled in SQL, Python, Pandas, NumPy, Scikit and various ML models. I enjoy producing accurate and helpful models and making them accurate.  
 
-I thrive on solving complex problems, understanding patterns, and helping businesses make data-driven decisions. Continuously learning and growing, I’m eager to expand my expertise in advanced analytics and contribute to projects where insights drive impact. 
+I thrive on solving complex problems, making models which actually work, and helping businesses make model-driven decisions. Continuously learning and growing, I’m eager to expand my expertise in advanced ML Models and contribute to projects where ML models drive impact. 
 
 
 
